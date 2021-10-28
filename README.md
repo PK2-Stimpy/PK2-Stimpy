@@ -7,7 +7,7 @@ Im mainly a java developer.
   
 📫 My Discord: **PK2_Stimpy#7089**
 
-🔭 Currently working on: *https://discord.gg/2b2thack*
+🔭 Currently working on: *https://discord.gg/7f6DqJs2vr*
 
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=PK2-Stimpy&layout=compact&theme=blue-green&hide=prs)](https://github.com/PK2-Stimpy)
 [![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=PK2-Stimpy&layout=compact&theme=blue-green)](https://github.com/PK2-Stimpy)
