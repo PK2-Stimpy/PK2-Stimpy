@@ -5,7 +5,7 @@ Im mainly a java developer.
 
 <br /><br />
   
-📫 My Discord: **PK2_Stimpy#7089**
+📫 My Discord: **pk2_stimpy**
 
 🔭 Currently working on: *https://discord.gg/7f6DqJs2vr*
 
